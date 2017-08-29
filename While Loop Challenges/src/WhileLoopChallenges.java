@@ -44,7 +44,7 @@ public class WhileLoopChallenges
 				
 				do{
 					Scanner favLetter = new Scanner(System.in);
-					System.out.println("Guess my favorite number!");
+					System.out.println("Guess my favorite number! \n (hint! its between 0-10)");
 					
 					int letter = favLetter.nextInt();
 					
