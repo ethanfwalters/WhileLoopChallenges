@@ -32,7 +32,7 @@ public class WhileLoopChallenges
 				}
 				while(thierLetterB);
 				
-				System.out.println("q is your new favorite letter! \n");
+				System.out.println("q is now your new favorite letter! \n");
 				
 				
 				// challenge three
@@ -44,7 +44,7 @@ public class WhileLoopChallenges
 				
 				do{
 					Scanner favLetter = new Scanner(System.in);
-					System.out.println("Guess my favorite number! \n (hint! its between 0-10)");
+					System.out.println("Guess my favorite number! \n(hint! its between 0-10)");
 					
 					int letter = favLetter.nextInt();
 					
@@ -56,7 +56,7 @@ public class WhileLoopChallenges
 				}
 				while(lit);
 				
-				System.out.println("\nYou have guessed my favorite number!");
+				System.out.println("\nYou have guessed my favorite number! \nThanks for playing!");
 				
 
 			}
