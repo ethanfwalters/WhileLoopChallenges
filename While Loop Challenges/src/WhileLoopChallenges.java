@@ -5,9 +5,9 @@ public class WhileLoopChallenges
 	{
 		public static void main(String[] args)
 			{
-
-				// challenge one
-
+				
+				//challenge one
+				// Hello from demo
 				int i = 5;
 				while (i > 0)
 					{
